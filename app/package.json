@@ -1,7 +1,7 @@
 {
   "name": "eight-layer-super-admin",
   "description": "Eight layer auto updater example",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "license": "MIT",
   "main": "main.js",
   "repository": "",
